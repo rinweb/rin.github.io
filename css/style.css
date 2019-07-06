@@ -23,3 +23,7 @@ area{
   border:none;
   outline:none;
 }
+/*・を消す*/
+.navigetion ul li{
+    list-style-type: none;
+}
