@@ -1,0 +1,25 @@
+/*サイトタイトル*/
+h1{
+                        color:brown;
+                    }
+h2{
+    color:forestgreen
+}
+/*中央揃え*/
+html{
+    text-align: center;
+}
+/*背景*/
+body{
+    background-color: #fff9de;
+}
+/*文字の色*/
+p{
+    color: coral;
+}
+
+/*青い線を消す*/
+area{
+  border:none;
+  outline:none;
+}
